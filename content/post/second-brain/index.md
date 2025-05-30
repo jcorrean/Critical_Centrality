@@ -1,14 +1,14 @@
 ---
-title: 🧠 Sharpen your thinking with a second brain
-summary: Create a personal knowledge base and share your knowledge with your peers.
-date: 2023-10-26
 authors:
-  - admin
-tags:
-  - Second Brain
-  - Markdown
+- admin
+date: "2023-10-26"
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
+summary: Create a personal knowledge base and share your knowledge with your peers.
+tags:
+- Second Brain
+- Markdown
+title: "\U0001F9E0 Sharpen your thinking with a second brain"
 ---
 
 Create a personal knowledge base and share your knowledge with your peers.

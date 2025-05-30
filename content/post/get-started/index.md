@@ -1,21 +1,17 @@
 ---
-title: 🎉 Easily create your own simple yet highly customizable blog
-summary: Take full control of your personal brand and privacy by migrating away from the big tech platforms!
-date: 2023-10-27
-
-# Featured image
-# Place an image named `featured.jpg/png` in this page's folder and customize its options here.
+authors:
+- admin
+- Ted
+date: "2023-10-27"
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
-
-authors:
-  - admin
-  - Ted
-
+summary: Take full control of your personal brand and privacy by migrating away from
+  the big tech platforms!
 tags:
-  - Academic
-  - Hugo Blox
-  - Markdown
+- Academic
+- Hugo Blox
+- Markdown
+title: "\U0001F389 Easily create your own simple yet highly customizable blog"
 ---
 
 Welcome 👋

@@ -1,16 +1,16 @@
 ---
-title: 👩🏼‍🏫 Teach academic courses
-summary: Embed videos, podcasts, code, LaTeX math, and even test students!
-date: 2023-10-24
-math: true
 authors:
-  - admin
-tags:
-  - Hugo
-  - Hugo Blox Builder
-  - Markdown
+- admin
+date: "2023-10-24"
 image:
-  caption: 'Embed rich media such as videos and LaTeX math'
+  caption: Embed rich media such as videos and LaTeX math
+math: true
+summary: Embed videos, podcasts, code, LaTeX math, and even test students!
+tags:
+- Hugo
+- Hugo Blox Builder
+- Markdown
+title: "\U0001F469\U0001F3FC‍\U0001F3EB Teach academic courses"
 ---
 
 [Hugo Blox Builder](https://hugoblox.com) is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.
